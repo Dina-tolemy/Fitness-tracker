@@ -128,10 +128,10 @@ let workoutSeed = [
       {
         type: "resistance",
         name: "Military Press",
-        duration: 20,
-        weight: 300,
+        duration: 10,
+        weight: 100,
         reps: 10,
-        sets: 4
+        sets: 2
       }
     ]
   }
